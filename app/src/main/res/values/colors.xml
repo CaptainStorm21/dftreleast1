@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windmill">#FFf6efea</color>
+    <color name="gold">#FFebcda4</color>
+    <color name="aqueous">#FF398797</color>
+    <color name="espressoBean">#170a04</color>
+    <color name="danger">#FFcb1700</color>
+    <color name="warning">#FFf2ca00</color>
+    <color name="info">#FF2183c7</color>
+    <color name="success">#FF20a819</color>
+    <color name="light">#FFc1c0bc</color>
+    <color name="dark">#FF373630</color>
+</resources>
